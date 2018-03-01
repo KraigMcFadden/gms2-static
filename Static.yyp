@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "619ef37e-369e-4d6a-b573-279057b43309",
+            "Value": {
+                "id": "a9b5c56a-b8f7-484c-983b-ae4bc536786c",
+                "resourcePath": "fonts\\fontStart\\fontStart.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "67f2781a-6837-4844-8e27-97cec3a2151b",
             "Value": {
                 "id": "041bba1e-f689-4132-b29e-d85974d57b34",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "9b1979e4-b56c-43a2-acb7-80d9f6cf0408",
+            "Value": {
+                "id": "5d53f21e-bd07-4ea2-8118-87daa589cb06",
+                "resourcePath": "objects\\objMainController\\objMainController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a41ccca6-7d4b-44ab-8607-5da7fdf6857f",
             "Value": {
                 "id": "d2310607-f714-471c-aa5b-884ecb3941cc",
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "bef592a2-a503-48e0-b2bf-8f348dcd7068",
+            "Value": {
+                "id": "62174747-6a3b-449d-92f4-870beb74472a",
+                "resourcePath": "sprites\\sprPlayer\\sprPlayer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1ac3e12-12c5-405d-83ec-47d346ae66bf",
             "Value": {
                 "id": "ce24b91b-3e20-4353-82be-5f82f1986496",
@@ -172,6 +196,22 @@
                 "id": "ec6d97b4-0f4c-4d87-a8eb-129ab586509c",
                 "resourcePath": "views\\cd6246d8-e9b7-4e5f-8e86-14fd8ae1aa5d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e12d9fbd-a324-4929-95c3-50024075d3b5",
+            "Value": {
+                "id": "3ee54ab0-44d2-49cf-a520-27a87b147378",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e64c02c3-9d71-4e92-87db-6fc192f241a6",
+            "Value": {
+                "id": "07040b26-c201-4382-957d-deac2887d91d",
+                "resourcePath": "objects\\objPlayer\\objPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
