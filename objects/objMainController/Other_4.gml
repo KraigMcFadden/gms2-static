@@ -1,4 +1,4 @@
-/// @description Room work
+/// @description Leaving Main Menu and Starting Room
 
 if (room == room1) {
 	

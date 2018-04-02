@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "8a0afd8b-8864-4d65-876a-91347c5b1fef",
+            "Value": {
+                "id": "7e4344f5-ac74-49e9-bd45-06f8ea6d69ae",
+                "resourcePath": "sounds\\sndWaiting\\sndWaiting.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8ec63dcd-a9eb-4382-a023-e27e2d9b308c",
             "Value": {
                 "id": "b39ac177-3e12-47ea-9fb8-5bf46706ef03",
