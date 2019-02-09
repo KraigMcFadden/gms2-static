@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0d2151f8-786d-4c60-b573-8b1bdb4ec5ed",
+            "Value": {
+                "id": "41400ca7-d06f-4fb9-b49b-057932147cc9",
+                "resourcePath": "sprites\\sprEnemyTall\\sprEnemyTall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1536e11f-1a5b-4386-a380-8eebf473abd2",
             "Value": {
                 "id": "e25a283d-d328-4bb9-893f-4530e7987510",
@@ -60,6 +68,14 @@
                 "id": "6011d49e-5ebf-40ee-a143-16f4adedcad2",
                 "resourcePath": "views\\1e5f852c-8f86-4f8c-8aa9-e53239b606eb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2a2eb1a4-7441-4999-9596-6e210fe3100d",
+            "Value": {
+                "id": "49ad8d4f-f467-4117-b298-a8aaaafabe7c",
+                "resourcePath": "sprites\\sprHealth\\sprHealth.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -87,6 +103,14 @@
             }
         },
         {
+            "Key": "4c56d2e6-7b0f-4ac0-bbdd-7c64836a5af6",
+            "Value": {
+                "id": "d994059c-d4c1-4e67-9feb-78b5f1f13c14",
+                "resourcePath": "sprites\\sprHouseTileset\\sprHouseTileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "55b92fb4-2c56-4965-836b-3f496374a53f",
             "Value": {
                 "id": "58cb6207-351c-4469-90b4-35984c550bbf",
@@ -95,11 +119,27 @@
             }
         },
         {
+            "Key": "58e0a144-4bf2-499e-8a61-60fb2b779e5e",
+            "Value": {
+                "id": "2b3f2a31-4fe5-45e0-a22f-304ea73017b6",
+                "resourcePath": "sprites\\sprBaby\\sprBaby.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "619ef37e-369e-4d6a-b573-279057b43309",
             "Value": {
                 "id": "a9b5c56a-b8f7-484c-983b-ae4bc536786c",
                 "resourcePath": "fonts\\fontStart\\fontStart.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "66e64633-2e16-4155-ba01-7facfa5a7d37",
+            "Value": {
+                "id": "1f56d377-449a-4e81-bedb-a3d307dba7cc",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -308,6 +348,14 @@
                 "id": "9408f375-a0e0-4ea3-93a5-2b990992c54f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fece9021-0368-4d03-94ff-3c41cbde089e",
+            "Value": {
+                "id": "6ddd8b5b-500c-409d-842a-a94b52b848e7",
+                "resourcePath": "sprites\\sprEnemyShort\\sprEnemyShort.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
