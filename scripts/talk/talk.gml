@@ -1,0 +1,1 @@
+isTalking = true;
